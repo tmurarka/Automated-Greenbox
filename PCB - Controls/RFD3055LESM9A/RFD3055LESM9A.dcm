@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RFD3055LESM9A
+D MOSFET, Fairchild, RFD3055LESM9A
+K
+F http://www.onsemi.com/pub/Collateral/RFD3055LESM-D.pdf
+$ENDCMP
+#
+#End Doc Library

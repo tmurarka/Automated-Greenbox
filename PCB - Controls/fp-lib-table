@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "RFD3055LE")(type "KiCad")(uri "${KIPRJMOD}/RFD3055LESM9A")(options "")(descr ""))
+)
